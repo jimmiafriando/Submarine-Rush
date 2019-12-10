@@ -99,14 +99,18 @@ https://drive.google.com/open?id=1Y6NwORgPGO7Ko58sI_oOzc80dgpUHTsw
 
 ## Screenshot In-Game
 mulai
+<br>
 ![Screenshot](jalan.jpg)
 
 Bergeser
+<br>
 ![Screenshot](bergeser.jpg)
 
 
 Menumbur Ranjau
+<br>
 ![Screenshot](ranjau.jpg)
 
 Game Over
+<br>
 ![Screenshot](mengulang.jpg)
